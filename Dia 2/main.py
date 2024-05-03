@@ -1,4 +1,3 @@
-#tarefa para calcular a conta e dividir ela entre um determinado número de pessoas
 print("Welcome to the tip calculator")
 total_bill = float(input("What was the total bill? $ \n"))
 tip_to_give = int(input("How much tip would you like to give? 10, 12 or 15? \n"))
